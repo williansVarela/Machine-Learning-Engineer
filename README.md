@@ -15,9 +15,9 @@ This directory includes lecture notes (`lesson_notes`) and project code (`p1` to
 ## Program Outline:
 
 1. Model Evaluation and Validation
-	- [ ] **Project 1 - Housing Price Prediction**
+	- [X] **Project 1 - Housing Price Prediction**
 2. Supervised Learning
-	- [ ] **Project 2 - Finding Donors For CharityML**
+	- [X] **Project 2 - Finding Donors For CharityML**
 3. Unsupervised Learning
 	- [ ] **Project 3 - Create Customer Segments** (Segmenting customers based on spending in different categories)
 4. Reinforcement Learning
